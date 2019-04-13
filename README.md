@@ -1,7 +1,7 @@
 # DonaldDuckCoin 
 Wenyue Ma && Ming Yang
 
-##Requirement
+## Requirement
 - DonaldDuckCoin implementation in Python 3
 - dependencies：
 [ecdsa](https://github.com/warner/python-ecdsa)
